@@ -96,6 +96,29 @@
 # Proporciona el título:
 # Proporciona el autor:
 # <titulo> fue escrito por <autor>
-titulo = input("Proporciona el titulo del libro: ")
-autor = input("Porporciona el autor del libro: ")
-print("El libro ", titulo, "fue escrito por", autor)
+# titulo = input("Proporciona el titulo del libro: ")
+# autor = input("Porporciona el autor del libro: ")
+# print("El libro ", titulo, "fue escrito por", autor)
+
+# Ejercicios del ciclo FOR
+# cadena = 'Hola'
+# for letra in cadena:
+#     print(letra)
+# else:
+#     print('Fin del ciclo for')
+
+# for letra in 'Holanda':
+#     if letra == 'a':
+#         print(f'La letra encontrada: {letra}')
+#         break
+# else:
+#         print('Fin ciclo for')
+
+# for i in range(6):
+#     if i % 2 == 0:
+#         print(f'Valor: {i}')
+
+# for i in range(6):
+#     if i % 2 != 0:
+#         continue
+#     print(f'Valor: {i}')
